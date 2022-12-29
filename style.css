@@ -1,0 +1,12 @@
+img{
+    width: 50%;
+    height: 400px;
+}
+#heart{
+margin-left: 100px;
+font-size: xx-large;
+}
+.card{
+display: inline-block;
+    
+}
